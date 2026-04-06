@@ -41,5 +41,4 @@ A partir del archivo generado, se realizan las siguientes operaciones:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Ferchulobo777/PROGRAMACI-N-III-TP1.git](https://github.com/Ferchulobo777/PROGRAMACI-N-III-TP1.git)
-   ```
+   git clone https://github.com/Ferchulobo777/PROGRAMACI-N-III-TP1.git
