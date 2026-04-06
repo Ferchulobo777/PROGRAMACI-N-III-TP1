@@ -8,7 +8,7 @@ Este proyecto es una aplicación de consola desarrollada en **Node.js** que cons
 * **Carrera:** Tecnicatura Universitaria en Desarrollo Web
 * **Materia:** Programación III – 2026
 
-## 👥 Integrantes - Grupo N° [Insertar Número]
+## 👥 Integrantes - Grupo "Y"
 * Fernando Rodriguez
 * Natalia Ailén Gonzalez
 * Martin Andres Conti
